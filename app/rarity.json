@@ -1,0 +1,17 @@
+{
+  "Background": {
+    "DarkPurple": 100.0,
+    "Grey": 100.0,
+    "Mix": 200.0
+  },
+  "Gun": {
+    "M4": 100.0,
+    "None": 200.0,
+    "Scar": 100.0
+  },
+  "Skin": {
+    "Black": 100.0,
+    "Brown": 100.0,
+    "Green": 100.0
+  }
+}
