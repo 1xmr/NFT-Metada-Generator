@@ -7,7 +7,6 @@ probabilities.</h3>
 <br>
 
 <div align="center">
-	|
 </div>
 
 # Contents
